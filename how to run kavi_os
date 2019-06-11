@@ -1,0 +1,2 @@
+ to build the system  sudo bash ./build-linux.sh
+ to run the system   sudo qemu-system-i386 -soundhw pcspk -drive format=raw,file=disk_images/kavios.flp,index=0,if=floppy
